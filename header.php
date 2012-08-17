@@ -9,8 +9,9 @@
         <link rel="stylesheet" href="CSS/style.css" />
         
         <!-- javaScript files -->
-        <script type="text/javascript" src="JS/jquery.js"></script>
+        <script type="text/javascript" src="JS/jquery.min.js"></script>
         <script type="text/javascript" src="JS/jquery.easing.js"></script>
+        <script type="text/javascript" src="JS/jquery.color.js"></script>
         <script type="text/javascript" src="JS/bootstrap.min.js"></script>
         <script type="text/javascript" src="JS/scripts.js"></script>
     </head>

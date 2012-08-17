@@ -11,12 +11,13 @@ Basic files of a website included jquery, twitter.bootstrap and some other jquer
 	--- style.css
 	
 	* IMAGES
-	---
+	--- glyphicons-halflings.png
+	--- glyphicons-halflings-white.png
 	
 	* JS
 	--- jquery.min.js
-	--- jquery.easing.js
-	--- jquery.color.js
+	--- jquery.easing.js (For more information : http://gsgd.co.uk/sandbox/jquery/easing/)
+	--- jquery.color.js  (For more information : http://www.bitstorm.org/jquery/color-animation/)
 	--- scripts.js
 	
 	* header.php
