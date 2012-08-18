@@ -18,6 +18,8 @@ Basic files of a website included jquery, twitter.bootstrap and some other jquer
 	|-> jquery.min.js
 	|-> jquery.easing.js (For more information : http://gsgd.co.uk/sandbox/jquery/easing/)
 	|-> jquery.color.js  (For more information : http://www.bitstorm.org/jquery/color-animation/)
+	|-> jquery.transit.min.js (For more information : http://ricostacruz.com/jquery.transit/ )
+	|-> jquery.typewriter.js
 	|-> scripts.js
 	|
 	• header.php
